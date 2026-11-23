@@ -1,0 +1,7 @@
+,val_acc,val_acc,test_acc,test_acc,test_up_share,test_up_share
+,mean,std,mean,std,mean,std
+version,,,,,,
+price,0.572,0.011,0.511,0.005,0.996,0.006
+price+news,0.571,0.011,0.51,0.008,0.96,0.056
+price+kalshi,0.572,0.007,0.52,0.006,0.953,0.049
+all,0.574,0.004,0.532,0.015,0.926,0.051
